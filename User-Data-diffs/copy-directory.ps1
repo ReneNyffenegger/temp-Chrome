@@ -1,4 +1,4 @@
-$DESTDIR = ...
+$DESTDIR = '2020-09-04-after-first-or-so-run'
 
 copy-item   -recurse "$env:LOCALAPPDATA\Google\Chrome\User Data"   $DESTDIR
 
